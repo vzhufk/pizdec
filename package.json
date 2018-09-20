@@ -1,0 +1,14 @@
+{
+  "name": "pizdec",
+  "version": "0.0.1",
+  "description": "The lib to fuck up your project.",
+  "main": "./src/index.js",
+  "repository": "https://github.com/vzhufk/pizdec.git",
+  "author": "V.Zhufiak & A.Malyuk",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
